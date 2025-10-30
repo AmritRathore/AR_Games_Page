@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.argames.nimantran",
+            "sha256_cert_fingerprints": [
+                "7E:C4:B2:0C:72:EF:70:48:3B:5A:2D:A6:FB:34:0A:9F:AD:A0:65:8E:38:D3:0C:22:D3:BF:7F:E9:85:F0:68:C3"
+            ]
+        }
+    }
+]
